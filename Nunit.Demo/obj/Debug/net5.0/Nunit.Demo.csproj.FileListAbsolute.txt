@@ -1,0 +1,12 @@
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\bin\Debug\net5.0\Nunit.Demo.deps.json
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\bin\Debug\net5.0\Nunit.Demo.dll
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\bin\Debug\net5.0\ref\Nunit.Demo.dll
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\bin\Debug\net5.0\Nunit.Demo.pdb
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\obj\Debug\net5.0\Nunit.Demo.csproj.AssemblyReference.cache
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\obj\Debug\net5.0\Nunit.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\obj\Debug\net5.0\Nunit.Demo.AssemblyInfoInputs.cache
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\obj\Debug\net5.0\Nunit.Demo.AssemblyInfo.cs
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\obj\Debug\net5.0\Nunit.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\obj\Debug\net5.0\Nunit.Demo.dll
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\obj\Debug\net5.0\ref\Nunit.Demo.dll
+C:\Users\Arman.tyagi\source\repos\Nunit.Demo\Nunit.Demo\obj\Debug\net5.0\Nunit.Demo.pdb
